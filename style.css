@@ -6,3 +6,35 @@ li {
     list-style: none;
     
 }
+form{
+    text-align: center;
+}
+
+.container{
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btn{
+    width: 150px;
+    height: 50px;
+    background-color: aqua;
+    color: red;
+    border-radius: 15px;
+    border: none;
+    font-size: 18px;
+    font-weight: 650;
+    margin-top: 10px;
+
+}
+
+.h1l {
+    margin-top: 150px ;
+}
+
+.login {
+    margin-top: 50px; ;
+}
