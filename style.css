@@ -37,7 +37,6 @@ input{
 
 .h1l {
     margin-top: 150px ;
-    color: aliceblue;
 }
 
 .login {
@@ -45,5 +44,21 @@ input{
 }
 
 body{
-    background-image: url(src/image/Abstract-texture-wallpapers-HD-background-pictures.jpg);
+    background-image: url(src/image/background-2462434_1920.jpg);
+}
+
+.btn2{
+    width: 150px;
+    height: 50px;
+    background-color: aqua;
+    color: red;
+    border-radius: 15px;
+    border: none;
+    font-size: 18px;
+    font-weight: 650;
+    margin-top: 10px;
+}
+
+.form1 {
+    
 }
