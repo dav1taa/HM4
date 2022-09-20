@@ -1,4 +1,4 @@
-ul {
+ ul {
     display: flex;
     justify-content: center;
 }
@@ -8,7 +8,7 @@ li {
 }
 form{
     text-align: center;
-}
+} 
 
 .container{
     margin-left: 150px;
@@ -30,11 +30,20 @@ form{
     margin-top: 10px;
 
 }
+input{
+    background-color: transparent;
+    border-color: aliceblue;
+}
 
 .h1l {
     margin-top: 150px ;
+    color: aliceblue;
 }
 
 .login {
     margin-top: 50px; ;
+}
+
+body{
+    background-image: url(src/image/Abstract-texture-wallpapers-HD-background-pictures.jpg);
 }
